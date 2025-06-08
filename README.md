@@ -1,4 +1,6 @@
 
+[![PyPI Downloads](https://static.pepy.tech/badge/mftfwscan)](https://pepy.tech/project/mftfwscan)
+
 # mftfwscan
 
 `mftfwscan` is a specialized command-line toolkit designed to simulate, validate, and audit firewall and Network Address Translation (NAT) rules specifically tailored for Managed File Transfer (MFT) environments. In secure enterprise data flows, MFT protocols like SFTP, FTPS, AS2, and HTTPS typically require well-defined inbound and outbound port configurations, as well as NAT traversal setups to accommodate internal services behind firewalls or proxies. Misconfigured rules in these systems—such as open high ports, overly permissive source IPs, or missing TLS protections—can expose sensitive data or create compliance violations.
