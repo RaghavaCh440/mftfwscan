@@ -1,4 +1,3 @@
-<a href="https://pepy.tech/projects/mftfwscan"><img src="https://static.pepy.tech/badge/mftfwscan" alt="PyPI Downloads"></a>
 
 [![PyPI Downloads](https://static.pepy.tech/badge/mftfwscan)](https://pepy.tech/project/mftfwscan)
 
