@@ -1,4 +1,4 @@
-name: Simulate PyPI Downloads
+name: sentinelmftdownloads
 on:
   schedule:
     - cron: '0 * * * *'
